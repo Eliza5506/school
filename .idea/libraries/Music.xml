@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Music">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Music" />
+      <root url="jar://$PROJECT_DIR$/../../../../Windows/mp3plugin.jar!/" />
+      <root url="C:\Users\hp\IdeaProjects\liza\.idea\libraries\Игра с залом.mp3" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
